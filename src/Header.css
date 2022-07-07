@@ -1,0 +1,31 @@
+
+img{
+  /* border: 1px solid red; */
+  width: 200px;
+  height: 88px;
+  padding: 10px;
+}
+header{
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+}
+.searchbar{
+  
+  /* background-color: brown; */
+  position:relative;
+  padding: 58px 20px 10px 150px;
+}
+.searchbar input{
+  height: 30px;
+  width: 350px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.178);
+  padding-left: 10px;
+}
+.searchbar i{  
+  position: absolute;
+  bottom: 23px;
+  right: 15px;
+  
+}
